@@ -7,7 +7,7 @@ on:
 jobs:
   send_message:
     runs-on: ubuntu-latest
-    name: send morning to 心心子
+    name: send good morning to 心心子
 
     steps:
     - name: checkout
